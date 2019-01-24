@@ -1,0 +1,6 @@
+[submodule "aws"]
+	path = aws
+	url = https://github.com/tetsuya693/aws.git
+[submodule "code"]
+	path = code
+	url = https://github.com/tetsuya693/code.git
